@@ -1,0 +1,24 @@
+hello world
+hello nnufu
+hello betaa
+hello moto 
+added
+for bug123
+
+
+__________________________master________________________
+
+<<<<<<< Updated upstream
+
+
+stash 2
+
+stash1
+
+stash 3
+
+stash 4
+mjbhb
+=======
+stash1
+>>>>>>> Stashed changes
