@@ -26,4 +26,8 @@ ______________________________local repository_____________________
 
 return cop
 return poc
+<<<<<<< HEAD
 from remote repo
+=======
+local repo
+>>>>>>> f437ed7 (implemented changes from local repo)
