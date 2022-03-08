@@ -8,7 +8,7 @@ for bug123
 
 __________________________master________________________
 
-<<<<<<< Updated upstream
+
 
 
 stash 2
@@ -21,4 +21,5 @@ stash 4
 mjbhb
 =======
 stash1
->>>>>>> Stashed changes
+
+______________________________local repository_____________________
